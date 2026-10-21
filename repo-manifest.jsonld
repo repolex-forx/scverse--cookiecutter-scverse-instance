@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/cookiecutter-scverse-instance/commit/1e6d88555a09624a3d12b5bf3b38a97ce613bea5",
       "git:hexsha": "1e6d88555a09624a3d12b5bf3b38a97ce613bea5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:30:51.375448+00:00"
     }
   ]
 }
